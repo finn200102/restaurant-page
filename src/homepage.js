@@ -1,4 +1,4 @@
-export const homepage = (function () {
+export const homePage = (function () {
   const renderHomepage = () => {
     const content = document.getElementById("content");
     // Title div
